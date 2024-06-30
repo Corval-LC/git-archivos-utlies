@@ -1,1 +1,2 @@
-esto es una prueba para ver si funciona el git diff con un archivo de texto
+esto es una prueba para ver si funciona el git 
+vamos a ver si es asi 
